@@ -1,0 +1,31 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Rowdies:wght@300;400;700&display=swap');
+*{
+   font-family:'Rowdies', cursiva;
+}
+
+p{
+    text-align: justify;
+}
+body {
+    background-image:linear-gradient(to right, #034159,#025951);
+
+}
+main{
+    background-color: aliceblue;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px black;
+}
+h1{
+    font-family: 'Press Start 2P', cursiva;
+    color: #034159;
+    text-align: center;
+    text-shadow: 1px 1px 2px #032c3b65;
+}
+h2{
+    color: #0CF25D;
+}
